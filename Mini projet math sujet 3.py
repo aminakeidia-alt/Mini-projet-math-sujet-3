@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import numpy as np
 from numpy.linalg import norm
 # --------------------------------------------------
@@ -423,4 +422,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 36ac0311de88eb1e3b9197db437f6378c1ca699b
+
